@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Gimmwee with ReactJS
         </p>
         <a
           className="App-link"
@@ -16,6 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+        </a>
+        <a className="App-link" href="https://linktr.ee/gimwwee">
+            Contact information
         </a>
       </header>
     </div>
